@@ -1,0 +1,13 @@
+{
+    "name": "dxjding/gitstudy",
+    "require-dev": {
+        "axios/tpr": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "dingxj",
+            "email": "d@qq.com"
+        }
+    ],
+    "require": {}
+}
